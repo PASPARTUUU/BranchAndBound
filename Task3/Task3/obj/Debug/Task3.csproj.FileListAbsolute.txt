@@ -1,0 +1,10 @@
+C:\Users\aleks\Desktop\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\aleks\Desktop\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\aleks\Desktop\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\aleks\Desktop\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\aleks\Desktop\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Практика\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\Практика\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Практика\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Практика\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Практика\Task3\Task3\bin\Debug\Task3.pdb

@@ -1,0 +1,5 @@
+C:\Users\R47\documents\visual studio 2015\Projects\task6\task6\bin\Release\task6.exe
+C:\Users\R47\documents\visual studio 2015\Projects\task6\task6\bin\Release\task6.pdb
+C:\Users\R47\documents\visual studio 2015\Projects\task6\task6\obj\Release\task6.exe
+C:\Users\R47\documents\visual studio 2015\Projects\task6\task6\obj\Release\task6.pdb
+C:\Users\R47\documents\visual studio 2015\Projects\task6\task6\obj\Release\task6.csprojResolveAssemblyReference.cache
